@@ -1,0 +1,1 @@
+CREATE TABLE wish(round INTEGER PRIMARY KEY, outcome INT, hit_type TEXT);
